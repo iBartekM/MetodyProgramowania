@@ -1,0 +1,19 @@
+18
+INF: a)+(b
+ONP: ab+a~a-+
+INF: a+b+(~a-a)
+INF: x=~~a+b*c
+INF: t = ~ a < x < ~b
+INF: ~a~~b<c+d&!p|!!q
+INF: a^b*c-d<x|q+x
+INF: x=~a*b/c-d+e%~f
+ONP: xabcdefg++++++=
+ONP: ab+c+d+e+f+g+
+ONP: abc++def++g++
+ONP: abc++def++g+++
+INF: x=a=b=c
+ONP: xabc===
+INF: x=a^b^c
+INF: x=a=b=c^d^e
+ONP: xabcde^^===
+INF: x=(a=(b=c^(d^e)))

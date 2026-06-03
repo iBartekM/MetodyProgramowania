@@ -1,0 +1,13 @@
+# Build folders
+cmake-build-debug/
+cmake-build-release/
+build/
+
+# IDE
+.idea/
+
+# Compiled outputs
+*.exe
+*.o
+*.obj
+output*.txt
